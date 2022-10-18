@@ -1,0 +1,111 @@
+body {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.top-section {
+
+    display: flex;
+    background-repeat: no-repeat;
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    background-size: cover;
+
+
+
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: 500;
+}
+
+p {
+    font-size: 1em;
+}
+
+.half-width {
+    width: 50%;
+}
+
+.adjustment {
+    margin: 5% 5% 5% 5%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.button {
+    color: whitesmoke;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, salmon, tomato);
+    padding: 20px 40px;
+    border-radius: 25px;
+
+}
+
+.middle-section {
+
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0% 15%;
+    margin-top: 30px;
+}
+
+.resize {
+    text-align: center;
+}
+
+.recipie-section {
+    display: flex;
+    margin: 0% 20%;
+    gap: 50px;
+}
+
+.recipie-section img {
+
+    width: 100%;
+}
+
+.receipie-title {
+    width: 50%;
+    padding: 20px 20px;
+    background-color: whitesmoke;
+    gap: 50px;
+    border-radius: 20px;
+
+
+}
+
+.media {
+    display: flex;
+    background-color: rgba(222, 184, 135, 0.186);
+    gap: 50px;
+    margin: 50px 50px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-left: 10%;
+    border-radius: 20px;
+}
+
+.media-box {
+    line-height: 0.5em;
+    padding-bottom: 20px;
+}
+
+footer {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+    word-spacing: 0.2em;
+}
+
+.orange {
+    color: orange;
+}
